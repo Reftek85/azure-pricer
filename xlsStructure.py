@@ -64,7 +64,7 @@ class xlsStructure:
 				'alias' : 'REGION',
 				'width' : 20,
 				'index' : 5,
-				'default' : 'europe-west',
+				'default' : 'south-africa-north',
 				'validationList' : '=$' + alphabet[regionListColumn] + '$1:$' + alphabet[regionListColumn] + '$36'
 			},
 			'LICENSE' : {
