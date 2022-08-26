@@ -344,7 +344,7 @@ class xlsStructure:
 		'firstCellRow':4,		
 		'header': {
 			'width': 2,
-			'title': 'YEAR TOTALS(€)'
+			'title': 'YEAR TOTALS($)'
 		},
 		'rows': {
 			'COMPUTE': {'name': 'COMPUTE', 'order':1},
