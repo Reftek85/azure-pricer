@@ -1,5 +1,7 @@
 # Azure Quote Estimation Tool
 
+This fork works for South Africa with USD Based Pricing.
+
 The tool generates a spreadsheet like <a href="https://github.com/SeryioGonzalez/azure-pricer/raw/master/output/Azure-Quote-Tool-20220826.xlsx">Azure-Quote-Tool-20220826.xlsx</a>
 
 Unofficial tool for an estimation on Azure VM migration projects.
