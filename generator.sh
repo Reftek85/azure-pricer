@@ -3,7 +3,7 @@
 set -xe
 
 day_of_today=$(date +%Y%m%d)
-installation_dir="/home/sergio/azure-pricer/"
+installation_dir="/home/pv/azure-pricer/"
 excel_files_dir=$installation_dir"output/"
 max_number_of_xls_files=30
 
