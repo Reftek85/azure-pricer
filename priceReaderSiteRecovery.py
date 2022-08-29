@@ -1,7 +1,7 @@
 import urllib.request
 import json
 
-urlPriceManagedDiskPublicAPI='https://azure.microsoft.com/api/v2/pricing/site-recovery/calculator/?culture=en-us&discount=mosp&currency=eur'
+urlPriceManagedDiskPublicAPI='https://azure.microsoft.com/api/v2/pricing/site-recovery/calculator/?culture=en-us&discount=mosp&currency=usd'
 
 #{region: price}
 
