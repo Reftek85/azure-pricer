@@ -71,7 +71,7 @@ class xlsStructure:
 				'alias' : 'LICENSE',
 				'width' : 9,
 				'index' : 6,
-				'default' : 'linux',
+				'default' : 'windows',
 				'validationList' : ['linux', 'windows']
 			},
 			'DATA STORAGE TYPE' : {
