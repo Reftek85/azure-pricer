@@ -18,6 +18,8 @@ $ ls -1
 Azure-Quote-Tool-020618.xlsx
 ```
 
+.\generator.ps1
+
 It works for Excel 2016 and beyond
 
 # Considerations
