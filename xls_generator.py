@@ -10,7 +10,7 @@ import priceReaderCompute
 import priceReaderManagedDisk
 import priceReaderSiteRecovery
 
-workbookNamePattern = '/mnt/c/Users/pavermaa/OneDrive - Microsoft/Desktop/Azure-Quote-Tool-{}.xlsx'
+workbookNamePattern = '/mnt/c/Users/stecot/OneDrive - CTRL Informatique Ltée/GitHub/azure-pricer/output/Azure-Quote-Tool-{}.xlsx'
 installation_dir = '/home/pv/azure-pricer' 
 regions=['germany-north', 'germany-west-central', 'south-africa-north', 'south-africa-west', 'switzerland-north', 'switzerland-west', 'uae-central', 'uae-north', 'asia-pacific-east', 'asia-pacific-southeast', 'australia-central', 'australia-central-2', 'australia-east','australia-southeast', 'brazil-south', 'canada-central', 'canada-east', 'central-india', 'europe-north', 'europe-west', 'france-central', 'france-south', 'germany-central', 'germany-northeast', 'japan-east', 'japan-west', 'korea-central', 'korea-south', 'south-india', 'united-kingdom-south', 'united-kingdom-west', 'us-central', 'us-east', 'us-east-2', 'usgov-arizona', 'usgov-iowa', 'usgov-texas', 'usgov-virginia', 'us-north-central', 'us-south-central', 'us-west', 'us-west-2', 'us-west-central', 'west-india', 'norway-east', 'norway-west']
 

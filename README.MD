@@ -2,8 +2,8 @@
 
 The tool generates a spreadsheet like <a href="https://github.com/pvermaak/azure-pricer/tree/master/output/Azure-Quote-Tool-20230920.xlsx">Azure-Quote-Tool-20230920.xlsx</a>
 
-Unofficial tool for an estimation on Azure VM migration projects based on https://github.com/SeryioGonzalez/azure-pricer, but tailored for South Africa. 
-It generates a spreadsheet for performing calculations with USD values and defaults to South Africa North.
+Unofficial tool for an estimation on Azure VM migration projects based on https://github.com/SeryioGonzalez/azure-pricer, but tailored for Canada East. 
+It generates a spreadsheet for performing calculations with CAD values and defaults to Canada East.
 
 For creating a new spreadsheet:<br/>
 ```
