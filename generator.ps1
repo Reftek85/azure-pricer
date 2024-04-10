@@ -12,7 +12,7 @@ Set-Location $installation_dir
 git pull
 Write-Host "UPDATING CODE FROM REPO"
 
-python $installation_dir\xls_generator.py $excel_file_of_today
+py $installation_dir\xls_generator.py $excel_file_of_today
 
 if (-not (Test-Path $excel_file_of_today)) {
     Write-Host "ERROR"
